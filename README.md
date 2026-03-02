@@ -57,7 +57,7 @@ Development Environment: Android Studio
 
 1. Clone the repository:  
 ```bash
-git clone https://github.com/<your-username>/therapy-companion-app.git
+git clone https://github.com/sidsoftwareupload/therapy-companion-app.git
 ```
 
 2. Navigate to project directory:
