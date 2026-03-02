@@ -1,0 +1,27 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+
+# Build outputs
+build/
+
+# Android
+android/.gradle/
+android/app/build/
+
+# iOS
+ios/Pods/
+
+# Generated
+*.apk
+*.aab
+*.so
+*.dill
+
+# IDE
+.idea/
+*.iml
+.vscode/
